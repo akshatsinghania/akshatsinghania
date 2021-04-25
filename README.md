@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning full stack development
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking for help with open-source
 - 💬 Ask me about anything
