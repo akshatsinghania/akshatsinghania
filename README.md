@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am a human
 
 ### About Me
-I am a passionate 13 year old , full stack developer from India , I like making websites , apps and games (basically everything)
+I am a passionate ,full stack developer , I like making websites , apps and games (basically everything)
 
 ### Stats - 
 [![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatsinghania&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
