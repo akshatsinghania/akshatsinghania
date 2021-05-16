@@ -39,15 +39,15 @@ I am a passionate ,full stack developer , I like making websites , apps and game
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinghania&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center'>Support Me :)</h2>
-<h3 align='center'>ko-fi</h3>
-<p text-align='center'>
+<div><h3 align='center'>ko-fi</h3>
+<div display='flex'>
   <a href="https://ko-fi.com/akshatsinghania">
     <img src="https://storage.ko-fi.com/cdn/useruploads/daa80581-9fa9-4ae1-83d3-76adc1e0fd20.png" alt="Akshat Singhania's Kofi" width='40%'>
   </a>
-</p>
-<h3 align='center'>Mine some bitcoins for me</h3>
+</p></div>
+<div><h3 align='center'>Mine some bitcoins for me</h3>
 <p text-align='center'>
   <a href="https://support-akshat.web.app/">
-    <img src=https://i.ytimg.com/vi/GP4-0AtU9M4/maxresdefault.jpg" alt="Akshat Singhania's cpu" width='40%'>
-  </a>
-</p>
+    <img src="https://i.ytimg.com/vi/GP4-0AtU9M4/maxresdefault.jpg" alt="Akshat Singhania's cpu" width='40%'/>
+  </a></div>
+</div>
