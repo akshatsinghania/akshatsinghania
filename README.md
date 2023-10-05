@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am a passionate ,full stack developer , I like making websites , apps and games (basically everything)
+I am a passionate,full stack developer, I like making websites, apps and games (basically everything)
 
 <h2 align="center">Reach me at</h2>
 
@@ -23,7 +23,7 @@ I am a passionate ,full stack developer , I like making websites , apps and game
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Akshat Singhania's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+  <a href="@">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Akshat Singhania's YouTube Channel" height="30" width="30">
   </a>
 </p>
