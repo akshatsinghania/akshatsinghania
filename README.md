@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with you
 - 🤔 I’m looking for help with open-source
 - 💬 Ask me about anything
-- 📫 How to reach me: singhaniaakshat1@gmail.com , discord - Akshat#7161
+- 📫 How to reach me: singhaniaakshat1@gmail.com , discord - akshatsinghania
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human
 
